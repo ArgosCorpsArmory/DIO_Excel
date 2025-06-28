@@ -4,4 +4,5 @@
 
 Depois gerar ganhos anuais a partir da média desta carteira de investimentos.
 
-Adicionalmente, brincar com os dados, manipular indicadores e gráficos, artefatos que evidenciem o aprendizado obtido no Curso Santander com o Felipão
+Adicionalmente, brincar com os dados, manipular indicadores e gráficos, artefatos que evidenciem o aprendizado obtido no Curso Santander com o Felipão.
+Mexer com percentuais de acordo com níveis de risco e deixar a interface amigável para quem não participou da elaboração da tabela.
